@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL\cl.hpp(4240): error C4996: 'clCreateSampler': was declared deprecated
+  C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL/cl.h(1366): note: see declaration of 'clCreateSampler'
+C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL\cl.hpp(5084): error C4996: 'clCreateCommandQueue': was declared deprecated
+  C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL/cl.h(1359): note: see declaration of 'clCreateCommandQueue'
+C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL\cl.hpp(5101): error C4996: 'clCreateCommandQueue': was declared deprecated
+  C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL/cl.h(1359): note: see declaration of 'clCreateCommandQueue'
+C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL\cl.hpp(5878): error C4996: 'clEnqueueTask': was declared deprecated
+  C:\Users\Lex Tomi\Documents\Projects\lightOCLSDK\include\CL/cl.h(1373): note: see declaration of 'clEnqueueTask'
